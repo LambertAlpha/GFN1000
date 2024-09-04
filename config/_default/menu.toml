@@ -1,0 +1,8 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "about-me"
+#name = "about-me"
+#url = "/"
+#[main.params]
+#icon = ""
+#newtab = true
